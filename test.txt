@@ -1,1 +1,1 @@
-git usage test
+git usage test -v2
